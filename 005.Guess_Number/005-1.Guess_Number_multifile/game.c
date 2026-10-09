@@ -12,7 +12,7 @@ int main(void){
     while (1){
         scanf("%d",&x);
         reget=guess_progress(x,y);
-        if (reget=1){
+        if (reget==1){
             printf("请输入一个1-100之间的整数\n");
         }
         else{
