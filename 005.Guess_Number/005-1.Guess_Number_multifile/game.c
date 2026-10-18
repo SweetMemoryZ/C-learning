@@ -1,3 +1,4 @@
+/*改程序用于和用户玩猜数字游戏*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>

@@ -1,3 +1,4 @@
+/*该程序用于产生结果*/
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>

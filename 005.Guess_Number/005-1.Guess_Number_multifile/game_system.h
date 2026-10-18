@@ -1,3 +1,4 @@
+/*自定义函数声明及头文件保护*/
 #ifndef GAME_SYSTEM_H
 #define GAME_SYSTEM_H
 
